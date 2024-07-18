@@ -32,7 +32,7 @@ To set up this project locally, follow these steps:
 
    ```bash
    git clone [repository-url]
-   cd event-landing-page 
+   cd event-landing-page-test
    cd app
    ```
 
